@@ -1,0 +1,5 @@
+dataset: xjtu
+rul_model: lstm
+fault_threshold: 0.8
+mode: inference
+generate_report: true
